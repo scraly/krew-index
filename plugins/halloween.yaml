@@ -18,4 +18,4 @@ spec:
         - linux
     uri: https://github.com/scraly/kubectl-halloween/archive/v0.0.2.tar.gz
     sha256: f7fb345eb44e34786a00e194fb68cc302fab4318df19b8c9a2f26a27bf94fe75
-    bin: kubectl-halloween
+    bin: kubectl-halloween-0.0.2
