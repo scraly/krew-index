@@ -4,7 +4,7 @@ metadata:
   name: halloween
 spec:
   homepage: https://github.com/scraly/kubectl-halloween
-  shortDescription: Display resources with Hallowen emojis
+  shortDescription: Display resources with Halloween emojis
   version: v0.0.2
   description: |
     This plugin allows you to add randomly a Halloween emoji just before the resources name. It's a special Halloween mode.
