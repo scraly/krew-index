@@ -17,5 +17,5 @@ spec:
         - darwin
         - linux
     uri: https://github.com/scraly/kubectl-halloween/archive/0.0.2.tar.gz
-    sha256: 9ba08889c830da352f084e07264f8437766b45d2ae959055d4d33ff7ba9b4487
+    sha256: d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed
     bin: kubectl-halloween
