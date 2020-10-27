@@ -12,12 +12,12 @@ Krew have an index but it's possible to create its own krew custom index, and th
 
 ## Add scraly/krew-index
 
-`$ kubectl krew index add scraly https://github.com/scraly/krew-index`
+`kubectl krew index add scraly https://github.com/scraly/krew-index`
 
 ## List available plugins contined in this index
 
-`$ kubectl krew search scraly`
+`kubectl krew search scraly`
 
 ## Install Kubernetes plugins
 
-`$ kubectl krew install scraly/halloween`
+`kubectl krew install scraly/halloween`
