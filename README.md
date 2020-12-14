@@ -21,3 +21,4 @@ Krew have an index but it's possible to create its own krew custom index, and th
 ## Install Kubernetes plugins
 
 `kubectl krew install scraly/halloween`
+`kubectl krew install scraly/season`
